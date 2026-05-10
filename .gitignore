@@ -1,0 +1,58 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+*-Ex.R
+/.Ruserdata
+.Renviron
+.Rprofile
+
+# Large data files (uncomment if you want to ignore them)
+# *.csv
+# *.dat
+# *.hdf5
+# *.parquet
+# *.sqlite
+# *.db
+
+# LaTeX build files (for papers/reports)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Reference managers
+*.bib.bak
+*.bib.sav
