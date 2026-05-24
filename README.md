@@ -20,8 +20,7 @@ research/
 ├── literature-review/
 │   └── *.md                        # Literature review notes and summaries
 ├── competitive-analysis/
-│   ├── competitive-analysis.md     # Feature comparison matrix and gap analysis
-│   └── screenshots/                # Screenshots of competing systems (labelled)
+│   └── competitive-analysis.md     # Feature comparison matrix and gap analysis
 ├── client-interviews/
 │   ├── interview-guide.md          # Structured interview questions used
 │   ├── interview-01-transcript.md  # Transcript or summary of Interview #1
